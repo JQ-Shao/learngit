@@ -1,6 +1,6 @@
 int main()
 {
-	int a;
+	int a,b;
 	a = 0;
 	return a;
 }
